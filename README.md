@@ -1,2 +1,8 @@
-# diagrama-classes-iphone
-Realizando o desafio proposto pela DIO, sobre a diagramação do Iphone. 
+# Trilha Java-basico
+Realizando o desafio proposto pela DIO, sobre a diagramação do Iphone-2007. 
+
+Neste desafio, irei  modelar e diagramar a representação UML do componente iPhone, abrangendo suas funcionalidades como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
+
+Representaçao em UML: 
+
+[![](https://mermaid.ink/img/pako:eNqNkk1OwzAQha9ieQWivUDEpoJNJUAIWGYztSfxSI4nGtsVUHp3HBKEQsqPN_aMvvdkP89BG7aoK208xHhN0Ap0dVBlbXvHAdXl23qtHrAXtjmx3OZIBvwS2fQg6B0_oceGAxleMnewxxYsyzYklIBpRBbulbroIUeY6rPzPZNVP8Cq0DI2X-nfCoyGvcMZP-LLhww8JAwW5YZaMMAz_9MCi9EX-Euh_pTEUhniAHLFIUH6Jlqk93GvnZBsdrMXnAQbNA5GcjT9zRWfaUdyDy2FeZZ6pTuUDsiWmTkMvVonhx3WuipHiw1kn2pdh2NBoYT--BKMrpJkXGnh3LrPIve2hDqNnK4a8LF00dLwUdNQDtvxHR1t53o?type=png)](https://mermaid.live/edit#pako:eNqNkk1OwzAQha9ieQWivUDEpoJNJUAIWGYztSfxSI4nGtsVUHp3HBKEQsqPN_aMvvdkP89BG7aoK208xHhN0Ap0dVBlbXvHAdXl23qtHrAXtjmx3OZIBvwS2fQg6B0_oceGAxleMnewxxYsyzYklIBpRBbulbroIUeY6rPzPZNVP8Cq0DI2X-nfCoyGvcMZP-LLhww8JAwW5YZaMMAz_9MCi9EX-Euh_pTEUhniAHLFIUH6Jlqk93GvnZBsdrMXnAQbNA5GcjT9zRWfaUdyDy2FeZZ6pTuUDsiWmTkMvVonhx3WuipHiw1kn2pdh2NBoYT--BKMrpJkXGnh3LrPIve2hDqNnK4a8LF00dLwUdNQDtvxHR1t53o)
